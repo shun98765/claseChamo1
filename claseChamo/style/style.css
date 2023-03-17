@@ -1,0 +1,35 @@
+.logo{
+    height: 160px;
+    width: 160px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.btn{
+    height: 50px;
+    background-color: #EA4335;
+    border-radius: 156px;
+    padding-top: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.azul{
+    background-color: #4285F4;
+}
+
+.verde{
+    background-color: #0F9D58;
+}
+
+.ama{
+    background-color: #FBBC04;
+}
